@@ -39,7 +39,7 @@ export default function Home() {
           </div>
         </div>
         <Image
-          src="/images/image.svg"
+          src="/images/Image.svg"
           alt="image"
           className="py-12 w-screen sm:w-1/2 sm:py-0  sm:p-0"
           width={400}
